@@ -1,3 +1,7 @@
+﻿router-dom
+https://materializecss.com/-v1.0.0
+https://www.npmjs.com/package/validator-v10.11.0
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
